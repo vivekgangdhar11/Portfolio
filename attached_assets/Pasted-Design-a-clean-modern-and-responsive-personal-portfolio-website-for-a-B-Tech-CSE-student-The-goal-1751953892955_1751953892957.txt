@@ -1,0 +1,113 @@
+Design a clean, modern, and responsive personal portfolio website for a B.Tech CSE student. The goal is to showcase skills, education, projects, certifications, and contact information in a visually appealing way. Here's all the content to include:
+
+🔷 1. Header (Hero Section)
+Name: Vivek Gangdhar
+Title: B.Tech CSE Student | Web Developer | DSA Enthusiast
+Location: Jaysingpur, India
+Tagline:
+"Driven by logic. Passionate about problem-solving."
+Contact Buttons:
+
+📧 vivekgangdhar11@gmail.com
+
+📞 +91 7447741161
+
+🌐 LinkedIn
+
+🐱 GitHub (Add actual link)
+
+🧠 LeetCode (Add actual link)
+
+🔷 2. About Me
+I am a third-year B.Tech Computer Science Engineering student at Sharad Institute of Technology College of Engineering, Yadrav-Ichalkaranji (Graduating in 2026, CGPA: 8.07).
+
+I’m passionate about web development, data structures & algorithms, and solving real-world problems through code. I constantly improve my programming skills and build projects that reflect practical applications of what I learn.
+
+🔷 3. Skills
+Programming Languages:
+
+Java, C, SQL
+
+Web Development:
+
+HTML, CSS, JavaScript, React (TextUtils), Bootstrap, MERN (Basics)
+
+Development Tools:
+
+Git, GitHub, Visual Studio Code
+
+Soft Skills:
+
+Problem-solving, Time Management, Team Collaboration, Communication
+
+🔷 4. Projects
+🔹 Car Price Prediction (2024)
+A machine learning project to predict car prices based on various features.
+Role: Front-end Developer
+Tech Used: Python, SQL, ML libraries
+
+🔹 TextUtils (2024)
+A React-based web application for text manipulation — including word count, capitalization, lowercasing, and more.
+Role: Full-Stack Developer
+Tech Used: React, JavaScript
+
+🔹 WakeMeUp - Smart Travel Alarm (In Progress)
+A travel assistant app that alerts users as they approach their destination using location services.
+Role: Full-Stack Developer
+Tech Stack: React Native / Flutter (optional), Geolocation APIs (conceptual)
+
+🔷 5. Education
+B.Tech in Computer Science Engineering
+Sharad Institute of Technology, Yadrav-Ichalkaranji
+🗓️ 2022 – 2026 | CGPA: 8.07
+
+HSC – Jaysingpur College
+🗓️ 2020 – 2022 | Percentage: 61.83%
+
+SSC – Laxminarayan Malu Highschool, Jaysingpur
+🗓️ 2020 | Percentage: 89%
+
+🔷 6. Internship
+Tecspeak IT Solutions, Sangli
+Gained hands-on experience with AWS services such as EC2, S3, and Lambda.
+Learned about deploying and managing basic cloud resources and infrastructure.
+
+🔷 7. Certifications
+TCS iON Career Edge – Young Professional
+🗓️ 2025 | Issued by Tata Consultancy Services (TCS iON)
+Topics Covered: Communication, Soft Skills, Presentation, IT Basics, AI Overview
+
+🔷 8. Hobbies & Interests
+Solving DSA problems on LeetCode
+
+Playing cricket
+
+Solving the Rubik’s Cube
+
+Watching movies and series
+
+Exploring new tech tools
+
+🔷 9. Contact Section
+Display clearly with icons:
+
+📧 Email: vivekgangdhar11@gmail.com
+
+📱 Phone: +91 7447741161
+
+📍 Location: Jaysingpur, India
+
+🌐 LinkedIn: linkedin.com/in/vivek-gangdhar-63846329b
+
+✅ Design Suggestions
+Modern UI with soft tech colors (blue, white, gray)
+
+Use cards for projects with hover effects
+
+Include icons for languages and tools
+
+Sticky navbar with sections: About, Skills, Projects, Education, Contact
+
+Responsive for mobile and desktop
+
+Add a Download Resume button
